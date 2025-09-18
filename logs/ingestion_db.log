@@ -1,0 +1,15 @@
+2025-09-18 14:21:21 - ingestion - INFO - Read file: begin_inventory.csv
+2025-09-18 14:21:22 - ingestion - INFO - Data ingested successfully into the begin_inventory table.
+2025-09-18 14:21:22 - ingestion - INFO - Read file: end_inventory.csv
+2025-09-18 14:21:23 - ingestion - INFO - Data ingested successfully into the end_inventory table.
+2025-09-18 14:21:26 - ingestion - INFO - Read file: purchases.csv
+2025-09-18 14:21:44 - ingestion - INFO - Data ingested successfully into the purchases table.
+2025-09-18 14:21:45 - ingestion - INFO - Read file: purchase_prices.csv
+2025-09-18 14:21:45 - ingestion - INFO - Data ingested successfully into the purchase_prices table.
+2025-09-18 14:21:55 - ingestion - INFO - Read file: sales.csv
+2025-09-18 14:26:01 - ingestion - INFO - Data ingested successfully into the sales table.
+2025-09-18 14:26:01 - ingestion - INFO - Read file: vendor_invoice.csv
+2025-09-18 14:26:02 - ingestion - INFO - Data ingested successfully into the vendor_invoice table.
+2025-09-18 14:26:02 - ingestion - INFO - Processing time: 280.5031051635742 seconds
+2025-09-18 14:26:02 - ingestion - INFO - All files processed and ingested successfully.
+2025-09-18 14:26:15 - ingestion - INFO - Data ingested successfully into the vendor_summary table.

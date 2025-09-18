@@ -1,0 +1,10 @@
+2025-09-18 14:26:15 - vendor_summary - INFO - Vendor summary table created successfully
+2025-09-18 14:26:15 - vendor_summary - INFO - Changed ActualVolume column to float64
+2025-09-18 14:26:15 - vendor_summary - INFO - Null values handled successfully
+2025-09-18 14:26:15 - vendor_summary - INFO - Whitespaces removed from VendorName and Description
+2025-09-18 14:26:15 - vendor_summary - INFO - Data cleaned successfully
+2025-09-18 14:26:15 - vendor_summary - INFO - size of dataframe after cleaning: (10692, 14)
+2025-09-18 14:26:15 - vendor_summary - INFO - Calculated column 'GrossProfit' added successfully with formula: TotalSalesDollars - TotalDollarsPurchased
+2025-09-18 14:26:15 - vendor_summary - INFO - Calculated column 'ProfitMargin' added successfully with formula: ((TotalSalesDollars - TotalDollarsPurchased) / TotalSalesDollars )* 100
+2025-09-18 14:26:15 - vendor_summary - INFO - Calculated column 'TurnoverRate' added successfully with formula: TotalQuantitySold / TotalQuantityPurchased
+2025-09-18 14:26:15 - vendor_summary - INFO - Calculated column 'SalesToPurchaseRatio' added successfully with formula: TotalSalesDollars / TotalDollarsPurchased

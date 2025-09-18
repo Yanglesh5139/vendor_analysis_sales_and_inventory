@@ -1,0 +1,28 @@
+{
+  "column_definitions": {
+    "GrossProfit": {
+      "formula": "TotalSalesDollars - TotalDollarsPurchased",
+      "description": "Gross profit",
+      "output_type": "percentage",
+      "decimal_places": 2
+    },
+    "ProfitMargin": {
+      "formula": "((TotalSalesDollars - TotalDollarsPurchased) / TotalSalesDollars )* 100",
+      "description": "Percentage markup on the purchase cost",
+      "output_type": "percentage",
+      "decimal_places": 2
+    },
+    "TurnoverRate": {
+      "formula": "TotalQuantitySold / TotalQuantityPurchased",
+      "description": "Ratio of units sold to units purchased",
+      "output_type": "ratio",
+      "decimal_places": 3
+    },
+    "SalesToPurchaseRatio": {
+      "formula": "TotalSalesDollars / TotalDollarsPurchased",
+      "description": "Ratio of sales to purchase cost",
+      "output_type": "ratio",
+      "decimal_places": 3
+    }
+  }
+}

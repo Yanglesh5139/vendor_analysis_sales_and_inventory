@@ -1,0 +1,3 @@
+2025-09-18 14:26:15 - main - INFO - Summary DataFrame created with 10692 records.
+2025-09-18 14:26:15 - main - INFO - Vendor summary data cleaned and ingested successfully.
+2025-09-18 14:26:15 - main - INFO - Final DataFrame has 10692 records and columns: ['VendorNumber', 'VendorName', 'Brand', 'Description', 'ActualPrice', 'purchasePrice', 'Volume', 'TotalQuantitySold', 'TotalSalesDollars', 'TotalExciseTax', 'TotalSalesPrice', 'TotalQuantityPurchased', 'TotalDollarsPurchased', 'TotalFreight', 'GrossProfit', 'ProfitMargin', 'TurnoverRate', 'SalesToPurchaseRatio'] 
