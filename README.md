@@ -92,12 +92,12 @@ To design and develop an **end-to-end analytics pipeline** that:
 ---
 
 ## 🗂️ Attachments / Links
-> 🔗 [Dashboard (.pbit)](link_here)  
-> 🔗 [Dashboard PDF Report](link_here)  
-> 🔗 [Python Cleaning Script (.py)](link_here)  
-> 🔗 [SQL Schema / Queries](link_here)  
-> 🖼️ [Sales Dashboard Preview](link_here)  
-> 🖼️ [Vendor Dashboard Preview](link_here)
+> 🔗 [Dashboard (.pbit)](https://github.com/Yanglesh5139/vendor_analysis_sales_and_inventory/blob/main/dashboard/vendor_dashboard.pbit)  
+> 🔗 [Dashboard PDF Report](https://github.com/Yanglesh5139/vendor_analysis_sales_and_inventory/blob/main/dashboard/vendor_dashboard.pdf)  
+> 🔗 [Python Cleaning Script (.py)](https://github.com/Yanglesh5139/vendor_analysis_sales_and_inventory/blob/main/scripts/get_vendor_summary.py)  
+> 🔗 [SQL Schema / Queries](https://github.com/Yanglesh5139/vendor_analysis_sales_and_inventory/blob/main/utils/json_files/queries.json)  
+> 🖼️ [Sales Dashboard Preview](https://github.com/Yanglesh5139/vendor_analysis_sales_and_inventory/blob/main/images/vendor_sales_analysis_sales_dark_mood.png)  
+> 🖼️ [Vendor Dashboard Preview](https://github.com/Yanglesh5139/vendor_analysis_sales_and_inventory/blob/main/images/vendor_sales_analysis_vendor.png)
 
 ---
 
